@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 2,
+    "Name": "test23",
+    "Cost": 0.04,
+    "Type": "type2"
+  },
+  {
+    "Id": 3,
+    "Name": "test3",
+    "Cost": 0.0,
+    "Type": "type3"
+  },
+  {
+    "Id": 4,
+    "Name": "test4",
+    "Cost": 0.0,
+    "Type": "type4"
+  },
+  {
+    "Id": 5,
+    "Name": "test5",
+    "Cost": 0.0,
+    "Type": "type5"
+  },
+  {
+    "Id": 6,
+    "Name": "test6",
+    "Cost": 0.0,
+    "Type": "type6"
+  },
+  {
+    "Id": 7,
+    "Name": "12",
+    "Cost": 10.0,
+    "Type": "12"
+  },
+  {
+    "Id": 8,
+    "Name": "10",
+    "Cost": 10.0,
+    "Type": "10"
+  },
+  {
+    "Id": 9,
+    "Name": "15",
+    "Cost": 15.0,
+    "Type": "15"
+  }
+]
